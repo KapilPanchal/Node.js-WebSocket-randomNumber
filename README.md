@@ -6,4 +6,5 @@ An updated version of Node.js is required on your system. That said; npm install
   a) websocket.
   b) finalhandler.
   c) serve-static.  
+Screen shot:  
 ![Screenshot](screenshot.png)
